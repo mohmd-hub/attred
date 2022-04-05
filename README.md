@@ -1,1 +1,1 @@
-# attred
+# Attred Resource Discovery
